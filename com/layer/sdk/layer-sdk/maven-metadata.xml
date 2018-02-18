@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.layer.sdk</groupId>
+  <artifactId>layer-sdk</artifactId>
+  <versioning>
+    <release>0.23.27-pre</release>
+    <versions>
+      <version>0.23.27-pre</version>
+    </versions>
+    <lastUpdated>20180212214328</lastUpdated>
+  </versioning>
+</metadata>
